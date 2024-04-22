@@ -1,0 +1,10 @@
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\bin\Debug\Project_Structure.exe.config
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\bin\Debug\Project_Structure.exe
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\bin\Debug\Project_Structure.pdb
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\obj\Debug\Project_Structure.csproj.AssemblyReference.cache
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\obj\Debug\Project_Structure.Form1.resources
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\obj\Debug\Project_Structure.Properties.Resources.resources
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\obj\Debug\Project_Structure.csproj.GenerateResource.cache
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\obj\Debug\Project_Structure.csproj.CoreCompileInputs.cache
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\obj\Debug\Project_Structure.exe
+D:\Learnc#\Tutorial_Project_Organize\Project_Structure\obj\Debug\Project_Structure.pdb
