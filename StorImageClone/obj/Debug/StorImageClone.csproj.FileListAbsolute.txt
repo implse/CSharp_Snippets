@@ -1,0 +1,10 @@
+D:\Learnc#\StorImage_clone\StorImageClone\bin\Debug\StorImageClone.exe.config
+D:\Learnc#\StorImage_clone\StorImageClone\bin\Debug\StorImageClone.exe
+D:\Learnc#\StorImage_clone\StorImageClone\bin\Debug\StorImageClone.pdb
+D:\Learnc#\StorImage_clone\StorImageClone\obj\Debug\StorImageClone.csproj.AssemblyReference.cache
+D:\Learnc#\StorImage_clone\StorImageClone\obj\Debug\StorImageClone.Form1.resources
+D:\Learnc#\StorImage_clone\StorImageClone\obj\Debug\StorImageClone.Properties.Resources.resources
+D:\Learnc#\StorImage_clone\StorImageClone\obj\Debug\StorImageClone.csproj.GenerateResource.cache
+D:\Learnc#\StorImage_clone\StorImageClone\obj\Debug\StorImageClone.csproj.CoreCompileInputs.cache
+D:\Learnc#\StorImage_clone\StorImageClone\obj\Debug\StorImageClone.exe
+D:\Learnc#\StorImage_clone\StorImageClone\obj\Debug\StorImageClone.pdb
