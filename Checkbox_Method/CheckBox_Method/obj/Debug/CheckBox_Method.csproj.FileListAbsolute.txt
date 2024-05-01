@@ -1,0 +1,10 @@
+D:\Learnc#\Checkbox_Method\CheckBox_Method\bin\Debug\CheckBox_Method.exe.config
+D:\Learnc#\Checkbox_Method\CheckBox_Method\bin\Debug\CheckBox_Method.exe
+D:\Learnc#\Checkbox_Method\CheckBox_Method\bin\Debug\CheckBox_Method.pdb
+D:\Learnc#\Checkbox_Method\CheckBox_Method\obj\Debug\CheckBox_Method.csproj.AssemblyReference.cache
+D:\Learnc#\Checkbox_Method\CheckBox_Method\obj\Debug\CheckBox_Method.Form1.resources
+D:\Learnc#\Checkbox_Method\CheckBox_Method\obj\Debug\CheckBox_Method.Properties.Resources.resources
+D:\Learnc#\Checkbox_Method\CheckBox_Method\obj\Debug\CheckBox_Method.csproj.GenerateResource.cache
+D:\Learnc#\Checkbox_Method\CheckBox_Method\obj\Debug\CheckBox_Method.csproj.CoreCompileInputs.cache
+D:\Learnc#\Checkbox_Method\CheckBox_Method\obj\Debug\CheckBox_Method.exe
+D:\Learnc#\Checkbox_Method\CheckBox_Method\obj\Debug\CheckBox_Method.pdb
